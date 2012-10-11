@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="400"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="triangle_right_angled.svg"
+   inkscape:export-filename="/var/IDEA_web/modules/webmath/images/triangle_right_angled.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0289025"
+     inkscape:cx="133.75017"
+     inkscape:cy="125.1181"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     width="600px"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter4101"
+       x="-0.1029171"
+       width="1.2058342"
+       y="-0.14545682"
+       height="1.2909136">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="20.255179"
+         id="feGaussianBlur4103" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline;opacity:1"
+     transform="translate(0,-652.36244)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1" />
+  <g
+     inkscape:label="Hintergrund"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4101);opacity:0.92283950999999997"
+       d="M 131.20777,94.820459 C 106.09311,138.24433 96.388596,149.88344 104.96621,195.89903 l -35.960645,92.33139 c 14.101525,25.42267 -30.746319,74.41135 62.202205,71.9213 83.29551,18.34439 219.8044,-1.92125 326.56154,0 37.1559,-7.10467 94.9083,34.82995 81.64039,-92.33139 L 523.85915,87.045184 C 525.04832,46.308179 493.9413,29.509481 442.21876,34.562078 L 355.71883,70.522725 131.20777,94.820459 z"
+       id="path4079"
+       sodipodi:nodetypes="cccccccccc"
+       transform="matrix(1.0348441,0,0,1.0543385,-3.344354,-16.256215)"
+       inkscape:export-filename="/var/IDEA_web/modules/webmath/images/triangle_right_angled.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     style="display:inline"
+     transform="translate(0,205.11792)"
+     inkscape:label="Dreieck"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <path
+       transform="translate(0,-205.11792)"
+       id="path2829"
+       d="m 116.62912,325.16298 376.12893,0 L 491.78614,76.354181 116.62912,325.16298 z"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       transform="translate(0,-205.11792)"
+       id="path2831"
+       d="m 492.75805,254.2136 c -48.2715,0 -81.96435,38.87637 -86.49993,69.97747 l 0,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(132.17967,-43.780965)"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="flowRoot2833"
+       xml:space="preserve"><flowRegion
+         id="flowRegion2835"><rect
+           y="107.45528"
+           x="310.03909"
+           height="229.37061"
+           width="450.96594"
+           id="rect2837" /></flowRegion><flowPara
+         id="flowPara2839">α</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       transform="translate(0,-205.11792)"
+       id="path2843"
+       d="m 207.9886,263.93269 c 14.57864,14.90261 23.32583,36.60859 22.35392,60.25838"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text2845"
+       y="106.43832"
+       x="180.77513"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="106.43832"
+         x="180.77513"
+         id="tspan2847"
+         sodipodi:role="line">β</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       transform="translate(0,-205.11792)"
+       id="path2849"
+       d="m 412.08957,128.83729 c 13.9307,25.91758 47.29959,43.08798 79.69657,42.76401"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text2851"
+       y="-68.505363"
+       x="454.85358"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-68.505363"
+         x="454.85358"
+         id="tspan2853"
+         sodipodi:role="line">γ</tspan></text>
+    <text
+       id="text2855"
+       y="-8.2469778"
+       x="265.33127"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-8.2469778"
+         x="265.33127"
+         id="tspan2857"
+         sodipodi:role="line">a</tspan></text>
+    <text
+       id="text2859"
+       y="19.938391"
+       x="507.3367"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="19.938391"
+         x="507.3367"
+         id="tspan2861"
+         sodipodi:role="line">b</tspan></text>
+    <text
+       id="text2863"
+       y="156.97762"
+       x="305.1795"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="156.97762"
+         x="305.1795"
+         id="tspan2865"
+         sodipodi:role="line">c</tspan></text>
+    <text
+       id="text2867"
+       y="145.3147"
+       x="494.70187"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="145.3147"
+         x="494.70187"
+         id="tspan2869"
+         sodipodi:role="line">A</tspan></text>
+    <text
+       id="text2871"
+       y="142.39897"
+       x="76.780838"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="142.39897"
+         x="76.780838"
+         id="tspan2873"
+         sodipodi:role="line">B</tspan></text>
+    <text
+       id="text2875"
+       y="-132.65138"
+       x="484.01086"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-132.65138"
+         x="484.01086"
+         id="tspan2877"
+         sodipodi:role="line">C</tspan></text>
+    <text
+       id="text2900"
+       y="-72.392998"
+       x="112.74149"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="-72.392998"
+         x="112.74149"
+         id="tspan2902"
+         sodipodi:role="line">α = 90°</tspan></text>
+  </g>
+</svg>

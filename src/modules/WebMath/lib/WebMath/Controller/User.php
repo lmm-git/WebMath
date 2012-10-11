@@ -19,14 +19,13 @@ class WebMath_Controller_User extends Zikula_AbstractController
 	 *
 	 * This function returns an overview about all avaiable functions
 	 *
-	 *
 	 * @author Leonard Marschke
 	 * @version 1.0
 	 */
 	public function main()
 	{
 		//Security check
-		if (!SecurityUtil::checkPermission('WebMath::calcAcceleration', '::', ACCESS_COMMENT)) {
+		if (!SecurityUtil::checkPermission('WebMath::', '::', ACCESS_COMMENT)) {
 			return LogUtil::registerPermissionError();
 		}
 		

@@ -1,5 +1,5 @@
+{pagesetvar name='title' __value='Calculating acceleration'}
 {include file='User/Includes/Header.tpl'}
-{pagesetvar name='title' __value='calculating acceleration'}
 
 <h3>{gt text="Calculating acceleration"}</h3>
 

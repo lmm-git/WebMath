@@ -20,7 +20,7 @@
 
 	<div>
 		<fieldset>
-			<legend>Umrechnen...</legend>
+			<legend>{gt text="Convert..."}</legend>
 
 		<input type="hidden" name="tries" value="1" />
 
@@ -43,7 +43,7 @@
 					</fieldset>
 
 		<div class="z-formbuttons">
-			<button type="submit" name="submit" title="Abschicken"><img src="/images/icons/small/button_ok.gif" alt="Abschicken" /></button>
+			<button type="submit" name="submit" title="{gt text="Send"}"><img src="/images/icons/small/button_ok.gif" alt="{gt text="Send"}" /></button>
 		</div>
 
 	</div>

@@ -14,6 +14,28 @@
 class WebMath_Controller_User extends Zikula_AbstractController
 {
 	/**
+	 * @brief Main function
+	 * @return string User/Main.tpl
+	 *
+	 * This function returns an overview about all avaiable functions
+	 *
+	 *
+	 * @author Leonard Marschke
+	 * @version 1.0
+	 */
+	public function main()
+	{
+		//Security check
+		if (!SecurityUtil::checkPermission('WebMath::calcAcceleration', '::', ACCESS_COMMENT)) {
+			return LogUtil::registerPermissionError();
+		}
+		
+		
+		return $this->view->fetch('User/Main.tpl');
+	}
+	
+	
+	/**
 	 * @brief Calculating acceleration
 	 * @param see form: WebMath_Form_Handler_User_CalcAcceleration
 	 * @return string User/CalcAcceleration.tpl
